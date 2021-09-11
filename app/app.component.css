@@ -1,0 +1,13 @@
+.model.show{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
+.modal-title{
+    color: rgb(255, 0, 55);
+}
+.modal-body{
+    background-color: burlywood;
+}
